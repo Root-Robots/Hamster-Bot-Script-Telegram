@@ -1,0 +1,8 @@
+__pycache__
+files
+venv
+Keys*
+*.exe
+notes
+user_ids
+test.py
